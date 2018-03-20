@@ -1,0 +1,2 @@
+We are learning git.
+Git is a very conveninet software.
